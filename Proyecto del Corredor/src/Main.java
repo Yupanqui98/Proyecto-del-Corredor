@@ -12,14 +12,14 @@ public class Main {
 	    sujeto1.verificarEnergia();
 	    sujeto1.entrenar();
 	    sujeto1.verificarEnergia();
-	    System.out.println(sujeto1.verificarEnergia());
+	    //System.out.println(sujeto1.verificarEnergia());
 	       
 		sujeto2.verificarEnergia();
 	    sujeto2.recargarEnergia(20);
 	    sujeto2.verificarEnergia();
 	    sujeto2.entrenar();
 	    sujeto2.verificarEnergia();
-	    System.out.println(sujeto2.verificarEnergia());	    
+	    //System.out.println(sujeto2.verificarEnergia());	    
 	}
 
 }
